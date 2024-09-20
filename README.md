@@ -37,8 +37,8 @@ sudo apt install nodejs -y
 
 ```bash
 
-node -v
-npm -v
+node -v (v18.20)
+npm -v  (10.7) 
 ```
 
 ### How to Set Up and Run the React-App Application
@@ -56,7 +56,7 @@ https://github.com/rsingh0706/react-app.git
 
 ```bash
 
-cd angular-app
+cd react-app
 ```
 
 3. Install project dependencies:
