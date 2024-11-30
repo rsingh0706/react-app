@@ -49,7 +49,7 @@ Follow these steps to set up and run the React-App project on your local machine
 
 ```bash
 
-https://github.com/rsingh0706/react-app.git
+ git clone https://github.com/rsingh0706/react-app.git
 ```
 
 2. Navigate into the project directory
